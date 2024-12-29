@@ -23,3 +23,6 @@ How to Run the Project
 1. Clone the repository:
    ```bash
    git clone https://github.com/<your-username>/single-page-cv-html.git
+
+Project URL:
+https://roadmap.sh/projects/single-page-cv
